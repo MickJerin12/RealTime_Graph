@@ -55,8 +55,8 @@ const App = () => {
           0,
           0,
         ],
-        borderColor: ["#1b03a3"],
-        backgroundColor: ["transparent"],
+        borderColor: ["rgba(44, 130, 201, 1)"],
+        backgroundColor: ["rgba(173,216,230, 0.8)"],
       },
     ],
   });
